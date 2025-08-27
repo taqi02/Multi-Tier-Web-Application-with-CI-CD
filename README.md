@@ -117,6 +117,8 @@ firebase deploy
 
 ☁️ Firebase Hosting live demo
 
+<img width="1919" height="1026" alt="Image" src="https://github.com/user-attachments/assets/9cee1354-c34f-4bb0-81ff-9adac8e8f734" />
+
 🔄 GitHub Actions pipeline
 
 ---
