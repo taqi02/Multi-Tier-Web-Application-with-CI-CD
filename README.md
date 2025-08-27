@@ -110,8 +110,12 @@ firebase deploy
 (Add your screenshots here)
 
 🖥️ Backend running locally
+<img width="1919" height="878" alt="Image" src="https://github.com/user-attachments/assets/be1e4974-a8c4-4d58-8ce2-a53b37873890" />
+<img width="346" height="244" alt="Image" src="https://github.com/user-attachments/assets/fb5eeb62-ed71-467b-b662-ac2ef515d12c" />
 
 🌐 Frontend To-Do App UI
+<img width="1919" height="878" alt="Image" src="https://github.com/user-attachments/assets/be1e4974-a8c4-4d58-8ce2-a53b37873890" />
+<img width="346" height="244" alt="Image" src="https://github.com/user-attachments/assets/fb5eeb62-ed71-467b-b662-ac2ef515d12c" />
 
 ☁️ Firebase Hosting live demo
 
