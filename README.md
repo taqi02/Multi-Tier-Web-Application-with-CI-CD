@@ -107,8 +107,6 @@ firebase deploy
 
 📸 Screenshots
 
-(Add your screenshots here)
-
 🖥️ Backend running locally
 <img width="346" height="244" alt="Image" src="https://github.com/user-attachments/assets/fb5eeb62-ed71-467b-b662-ac2ef515d12c" />
 
